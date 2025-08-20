@@ -1,0 +1,509 @@
+[
+    {
+        "name": "Treasure Tokens",
+        "visibility_rules": ["treasure_tokens"],
+        "access_rules": ["treasure_radar"],
+        "chest_unopened_img": "images/items/TreasureToken.png",
+        "chest_opened_img": "images/items/TreasureTokenGray.png",
+        "children": [
+              {
+                "name": "Lagrano Ruins - 5F: Test Hall 2",
+                "sections": [
+                    {
+                        "name": "Treasure Token",
+                        "access_rules": ["lagrano_ruins"]
+                    }
+                ]                
+            },
+            {
+                "name": "Lagrano Ruins - East Block Stairs 4F to 5F",
+                "access_rules": ["lagrano_key, lagrano_ruins"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Lagrano Ruins - 3F: High Performance Reploid Development",
+                "access_rules": ["lagrano_ruins"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Lagrano Ruins - Area 2F-East",
+                "access_rules": ["lagrano_ruins"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+             {
+                "name": "Lagrano Ruins - Area 1F-East",
+                "access_rules": ["lagrano_ruins"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Central Tower - Air City Gate",
+                "access_rules": ["central_tower"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Central Tower - Shaft 999F",
+                "access_rules": ["central_tower"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Central Tower - Tower Base Access Tunnel",
+                "access_rules": ["central_tower"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Central Tower - Equipment Maintenance B",
+                "access_rules": ["central_tower"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Central Tower - Data Backup Room Hall A",
+                "access_rules": ["central_tower"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Central Tower - Data Backup Room Hall B",
+                "access_rules": ["central_tower"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Central Tower - Base Gateway",
+                "access_rules": ["central_tower"],
+                "sections": [
+                    {
+                        "name": "Treasure Token",
+                        "item_count": 2
+                    }
+                ]
+            },
+            {
+                "name": "Tianna Camp - Security Reploid Patrol Area",
+                "access_rules": ["tianna_camp"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Tianna Camp - West Prison",
+                "access_rules": ["tianna_camp"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Tianna Camp - Maze Area 1",
+                "access_rules": ["tianna_camp, tianna_key"],
+                "sections": [
+                    {
+                        "name": "Treasure Token",
+                        "item_count": 2
+                    }
+                ]
+            },
+            {
+                "name": "Tianna Camp - Maze Area 2",
+                "access_rules": ["tianna_camp"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Tianna Camp - Security Panel Area",
+                "access_rules": ["tianna_camp"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Tianna Camp - Aqua Coliseum",
+                "access_rules": ["tianna_camp, silver_horn"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Gaudile Laboratory - Teleport Arrivals Area",
+                "access_rules": ["gaudile_laboratory"],
+                "sections": [
+                    {
+                        "name": "Treasure Token",
+                        "item_count": 2
+                    }
+                ]
+            },
+            {
+                "name": "Gaudile Laboratory - East Deck High Speed Lift Area",
+                "access_rules": ["gaudile_laboratory"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Gaudile Laboratory - Observation Deck Area",
+                "access_rules": ["gaudile_laboratory"],
+                "sections": [
+                    {
+                        "name": "Treasure Token",
+                        "item_count": 2
+                    }
+                ]
+            },
+            {
+                "name": "Gaudile Laboratory - Laboratory Approach",
+                "access_rules": ["gaudile_laboratory"],
+                "sections": [
+                    {
+                        "name": "Treasure Token",
+                        "item_count": 2
+                    }
+                ]
+            },
+            {
+                "name": "Gaudile Laboratory - Counter-Biohazard Sample Storage",
+                "access_rules": ["gaudile_laboratory"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Gaudile Laboratory - West Deck Main Route",
+                "access_rules": ["gaudile_laboratory"],
+                "sections": [
+                    {
+                        "name": "Treasure Token",
+                        "item_count": 3
+                    }
+                ]
+            },
+            {
+                "name": "Gaudile Laboratory - Great Tree Stump Hall",
+                "access_rules": ["gaudile_laboratory, dr_psyche"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Ulfat Factory - Smelting Furnace 1",
+                "access_rules": ["ulfat_factory"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Ulfat Factory - Smelting Furnace 2",
+                "access_rules": ["ulfat_factory"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Ulfat Factory - Smelting Furnace 3",
+                "access_rules": ["ulfat_factory"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Ulfat Factory - Parts Intake Line",
+                "access_rules": ["ulfat_factory"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Ulfat Factory - Parts Delivery Line",
+                "access_rules": ["ulfat_factory"],
+                "sections": [
+                    {
+                        "name": "Treasure Token",
+                        "item_count": 3
+                    }
+                ]
+            },
+            {
+                "name": "Ulfat Factory - Freight Lift",
+                "access_rules": ["ulfat_factory"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Gimialla Mine - Level 1 Shaft Entrance",
+                "access_rules": ["gimialla_mine"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Gimialla Mine - Level 2 Main Tunnel",
+                "access_rules": ["gimialla_mine"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Gimialla Mine - L2 Southwest Division",
+                "access_rules": ["gimialla_mine, booster_parts"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Gimialla Mine - L2 Southeast Division",
+                "access_rules": ["gimialla_mine, booster_parts"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Gimialla Mine - L3 Northwest Division",
+                "access_rules": ["gimialla_mine, shadow"],
+                "sections": [
+                    {
+                        "name": "Treasure Token",
+                        "item_count": 2
+                    }
+                ]
+            },
+            {
+                "name": "Gimialla Mine - L3 Southwest Division",
+                "access_rules": ["gimialla_mine, shadow, gimialla_key, heavy_motor"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Vanallia Desert - Quicksand South Side",
+                "access_rules": ["vanallia_desert"],
+                "sections": [
+                    {
+                        "name": "Treasure Token",
+                        "item_count": 4
+                    }
+                ]
+            },
+            {
+                "name": "Vanallia Desert - Quicksand North Side",
+                "access_rules": ["vanallia_desert"],
+                "sections": [
+                    {
+                        "name": "Treasure Token",
+                        "item_count": 2
+                    }
+                ]
+            },
+            {
+                "name": "Vanallia Desert - Quicksand Central Passageway",
+                "access_rules": ["vanallia_desert"],
+                "sections": [
+                    {
+                        "name": "Treasure Token",
+                        "item_count": 2
+                    }
+                ]
+            },
+            {
+                "name": "Vanallia Desert - Signal Jammer Laser Energy Generator",
+                "access_rules": ["vanallia_desert"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Vanallia Desert Base - Signal Jammer Laser Energy Generator SW",
+                "access_rules": ["vanallia_desert"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Melda Ore Plant - Area E-B02",
+                "access_rules": ["melda_ore_plant"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Melda Ore Plant - Area E-B03",
+                "access_rules": ["melda_ore_plant"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Melda Ore Plant - Area W-B04",
+                "access_rules": ["melda_ore_plant"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Melda Ore Plant - Area W-B03",
+                "access_rules": ["melda_ore_plant"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Melda Ore Plant - Area W-B02",
+                "access_rules": ["melda_ore_plant, ferham"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Melda Ore Plant - Area W-B01",
+                "access_rules": ["melda_ore_plant, ferham"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Grave Ruins Base - Level E Security Zone",
+                "access_rules": ["grave_ruins_base"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Grave Ruins Base - Level D Security Zone",
+                "access_rules": ["grave_ruins_base"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Grave Ruins Base - Level C Security Zone",
+                "access_rules": ["grave_ruins_base"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Grave Ruins Base - Level B Security Zone",
+                "access_rules": ["grave_ruins_base"],
+                "sections": [
+                    {
+                        "name": "Treasure Token",
+                        "item_count": 3
+                    }
+                ]
+            },
+            {
+                "name": "Grave Ruins Base - Revolver Shaft Area",
+                "access_rules": ["grave_ruins_base"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            },
+            {
+                "name": "Grave Ruins Base - Level S Top Security Zone",
+                "access_rules": ["grave_ruins_base"],
+                "sections": [
+                    {
+                        "name": "Treasure Token"
+                    }
+                ]
+            }
+        ]
+    }
+]

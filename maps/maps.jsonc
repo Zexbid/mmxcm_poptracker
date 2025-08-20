@@ -1,15 +1,75 @@
 [
   //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#maps
   {
-    "name": "map1",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/map.png"
+    "name": "Lagrano Ruins",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "img": "images/maps/Lagrano_Ruins.png"
   },
   {
-    "name": "map2",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/map_2.png"
+    "name": "Central Tower",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/Central_Tower.png"
+  },
+  {
+    "name": "Tianna Camp",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Tianna_Camp.png"
+  },
+  {
+    "name": "Gaudile Laboratory",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Gaudile_Lab.png"
+  },
+  {
+    "name": "Eternal Forest",
+    "location_size": 18,
+    "location_border_thickness": 2,
+    "img": "images/maps/Eternal_Forest.png"
+  },
+  {
+    "name": "Ulfat Factory",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "img": "images/maps/Ulfat_Factory.png"
+  },
+  {
+    "name": "Gimialla Mine",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "img": "images/maps/Gimialla_Mine.png"
+  },
+  {
+    "name": "Vanallia Desert Base",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "img": "images/maps/Vanallia_Desert.png"
+  },
+  {
+    "name": "Vanallia Desert Quicksand",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "img": "images/maps/Vanallia_Desert_Grid.png"
+  },
+  {
+    "name": "Melda Ore Plant",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "img": "images/maps/Melda_Ore_Plant.png"
+  },
+  {
+    "name": "Grave Ruins Base",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "img": "images/maps/Grave_Ruins_Base.png"
+  },
+  {
+    "name": "Far East HQ",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "img": "images/maps/Far_East_HQ.png"
   }
 ]

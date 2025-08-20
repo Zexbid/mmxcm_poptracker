@@ -1,0 +1,341 @@
+[
+    {
+        "name": "Vanallia Desert Base",
+        "access_rules": ["vanallia_desert"],
+        "children": [
+            {
+                "name": "Vanallia Desert - Quicksand South Side",
+                "sections": [
+                    {
+                        "name": "Build Power",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Armor",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Shield",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Speed",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Cooler",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Vaccine Program",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Energy 50",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Liquid Glob",
+                        "ref": "Mechaniloids/Vanallia Desert - Quicksand South Side/Liquid Glob"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Vanallia Desert - Quicksand South Side/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Vanallia Desert Base",
+                        "x": 360,
+                        "y": 678
+                    }
+                ]
+            },
+            {
+                "name": "Vanallia Desert - Quicksand North Side",
+                "sections": [
+                    {
+                        "name": "Vaccine Program",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Cure All",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Hyper",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "400 FME",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "1800z",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "2000z",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Ball & Chain Hammer",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Vanallia Desert - Quicksand North Side/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Vanallia Desert Base",
+                        "x": 242,
+                        "y": 626
+                    }
+                ]
+            },
+            {
+                "name": "Vanallia Desert - Quicksand Central Passageway",
+                "sections": [
+                    {
+                        "name": "Gain Hyper",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Energy 100",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Vanallia Desert - Quicksand Central Passageway/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Vanallia Desert Base",
+                        "x": 360,
+                        "y": 304
+                    }
+                ]
+            },
+            {
+                "name": "Vanallia Desert - Signal Jammer Laser Energy Control Room NW",
+                "sections": [
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 2
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Vanallia Desert Base",
+                        "x": 140,
+                        "y": 282
+                    }
+                ]
+            },
+            {
+                "name": "Vanallia Desert - Signal Jammer Laser Energy Control Room SW",
+                "sections": [
+                    {
+                        "name": "Tank Energy 50",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Pararoid",
+                        "ref": "Mechaniloids/Vanallia Desert - Signal Jammer Laser Energy Control Room SW/Pararoid"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Vanallia Desert Base",
+                        "x": 70,
+                        "y": 332
+                    }
+                ]
+            },
+             {
+                "name": "Vanallia Desert - Signal Jammer Laser Energy Control Room NE",
+                "sections": [
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 2
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Vanallia Desert Base",
+                        "x": 650,
+                        "y": 282
+                    }
+                ]
+            },
+             {
+                "name": "Vanallia Desert - Signal Jammer Laser Energy Control Room SE",
+                "sections": [
+                    {
+                        "name": "Cyber Liquid",
+                        "chest_unopened_img": "images/items/Pink.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Vanallia Desert Base",
+                        "x": 584,
+                        "y": 334
+                    }
+                ]
+            },
+            {
+                "name": "Vanallia Desert - Signal Jammer Laser Energy Generator",
+                "sections": [
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 4
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Vanallia Desert - Signal Jammer Laser Energy Generator/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Vanallia Desert Base",
+                        "x": 358,
+                        "y": 174
+                    }
+                ]
+            },
+            {
+                "name": "Vanallia Desert - Signal Jammer Laser Energy Generator",
+                "sections": [
+                    {
+                        "name": "Thunder Stella",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Vanallia Desert Base",
+                        "x": 314,
+                        "y": 158
+                    }
+                ]
+            },
+            {
+                "name": "Vanallia Desert - Signal Jammer Laser Energy Generator",
+                "sections": [
+                    {
+                        "name": "Fire Resist",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Combat Absorber",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Vanallia Desert - Signal Jammer Laser Energy Generator SW/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Vanallia Desert Base",
+                        "x": 248,
+                        "y": 208
+                    }
+                ]
+            },
+            {
+                "name": "Vanallia Desert - Signal Jammer Laser Energy Generator",
+                "sections": [
+                    {
+                        "name": "Build LE",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build WE",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Vanallia Desert Base",
+                        "x": 462,
+                        "y": 158
+                    }
+                ]
+            },
+            {
+                "name": "Vanallia Desert - Signal Jammer Laser Energy Generator",
+                "sections": [
+                    {
+                        "name": "Shot Absorber",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Vanallia Desert Base",
+                        "x": 396,
+                        "y": 208
+                    }
+                ]
+            },
+            {
+                "name": "Vanallia Desert - Quicksand Security Room",
+                "sections": [
+                    {
+                        "name": "Botos",
+                        "hosted_item": "botos"
+                    },
+                    {
+                        "name": "Botos Item",
+                        "chest_unopened_img": "images/items/Rebellion.png",
+                        "chest_opened_img": "images/items/RebellionGray.png",
+                        "item_count": 2
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Vanallia Desert Base",
+                        "x": 354,
+                        "y": 44
+                    }
+                ]
+            }
+        ]
+    }
+]

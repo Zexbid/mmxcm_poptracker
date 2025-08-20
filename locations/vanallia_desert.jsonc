@@ -1,0 +1,126 @@
+[
+    {
+        "name": "Vanallia Desert Quicksand",
+        "access_rules": ["vanallia_desert"],
+        "children": [
+            {
+                "name": "Vanallia Desert Quicksand - B6",
+                "sections": [
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Mett.png",
+                        "chest_opened_img": "images/items/MettGray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Vanallia Desert Quicksand",
+                        "x": 138,
+                        "y": 572
+                    }
+                ]
+            },
+            {
+                "name": "Vanallia Desert Quicksand - C6",
+                "sections": [
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Mett.png",
+                        "chest_opened_img": "images/items/MettGray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Vanallia Desert Quicksand",
+                        "x": 284,
+                        "y": 538
+                    }
+                ]
+            },
+            {
+                "name": "Vanallia Desert Quicksand - D5",
+                "sections": [
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Mett.png",
+                        "chest_opened_img": "images/items/MettGray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Vanallia Desert Quicksand",
+                        "x": 374,
+                        "y": 454
+                    }
+                ]
+            },
+            {
+                "name": "Vanallia Desert Quicksand - E5",
+                "sections": [
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Mett.png",
+                        "chest_opened_img": "images/items/MettGray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Vanallia Desert Quicksand",
+                        "x": 466,
+                        "y": 396
+                    }
+                ]
+            },
+            {
+                "name": "Vanallia Desert Quicksand - A3",
+                "sections": [
+                    {
+                        "name": "Mini Battery",
+                        "chest_unopened_img": "images/items/Mett.png",
+                        "chest_opened_img": "images/items/MettGray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Vanallia Desert Quicksand",
+                        "x": 88,
+                        "y": 250
+                    }
+                ]
+            },
+            {
+                "name": "Vanallia Desert Quicksand - A2",
+                "sections": [
+                    {
+                        "name": "Megatortoise",
+                        "ref": "Mechaniloids/Vanallia Desert Quicksand - A2/Megatortoise"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Vanallia Desert Quicksand",
+                        "x": 20,
+                        "y": 148
+                    }
+                ]
+            },
+            {
+                "name": "Vanallia Desert Quicksand - C1",
+                "sections": [
+                    {
+                        "name": "Doubletooth",
+                        "chest_unopened_img": "images/items/Mett.png",
+                        "chest_opened_img": "images/items/MettGray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Vanallia Desert Quicksand",
+                        "x": 224,
+                        "y": 20
+                    }
+                ]
+            }
+        ]
+    }
+]

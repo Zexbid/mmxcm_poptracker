@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Shops",
+        "visibility_rules": ["shops"],
+        "chest_unopened_img": "images/items/Shop.png",
+        "chest_opened_img": "images/items/ShopGray.png",
+        "children": [
+            {
+                "name": "Lagrano Ruins - Area 5F-East Secret FM Shop",
+                "access_rules": ["lagrano_key, lagrano_ruins"],
+                "sections": [
+                    {"name": "Assassin Mind"},
+                    {"name": "Eagle Eye"},
+                    {"name": "Light as a Feather"},
+                    {"name": "Neutralizer -10"},
+                    {"name": "Neutralizer -20"},
+                    {"name": "Neutralizer -30"}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Lagrano Ruins",
+                        "x": 742,
+                        "y": 59,
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Lagrano Ruins - Area 5F-East Secret Weapon Shop",
+                "access_rules": ["lagrano_key, lagrano_ruins"],
+                "sections": [
+                    {"name": "Turbo Buster"},
+                    {"name": "Soul Saber"},
+                    {"name": "Interceptor"},
+                    {"name": "Vengeful Needles"},
+                    {"name": "Kitty Gloves"},
+                    {"name": "Auto Bullets"},
+                    {"name": "Get Zenny +"},
+                    {"name": "Get EXP +"},
+                    {"name": "Get FME +"},
+                    {"name": "Energy Field"},
+                    {"name": "Super Absorber"},
+                    {"name": "Vitality Missiles"}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Lagrano Ruins",
+                        "x": 758,
+                        "y": 52,
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Lagrano Ruins - Area 5F-East Secret Item Shop",
+                "access_rules": ["lagrano_key, lagrano_ruins"],
+                "sections": [
+                    {"name": "Ultra Fire"},
+                    {"name": "Ultra Blizzard"},
+                    {"name": "Ultra Thunder"},
+                    {"name": "Boost Power"},
+                    {"name": "Boost Armor"},
+                    {"name": "Boost Shield"},
+                    {"name": "Boost Speed"},
+                    {"name": "Hacking"}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Lagrano Ruins",
+                        "x": 725,
+                        "y": 52,
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Central Tower - Air City Shopping Arcade Weapon Shop",
+                "sections": [
+                    {"name": "Fire Buster MKIII",
+                     "access_rules": ["rebellion_medal:6"]},
+                    {"name": "Ice Buster MKIII",
+                     "access_rules": ["rebellion_medal:6"]},
+                    {"name": "Thunder Buster MKIII",
+                     "access_rules": ["rebellion_medal:6"]},
+                    {"name": "Flame Saber+",
+                     "access_rules": ["rebellion_medal:6"]},
+                    {"name": "Ice Saber+",
+                     "access_rules": ["rebellion_medal:6"]},
+                    {"name": "Thunder Saber+",
+                     "access_rules": ["rebellion_medal:6"]},
+                    {"name": "Protect Lance Y",
+                     "access_rules": ["rebellion_medal:6"]},
+                    {"name": "Fire Comet",
+                     "access_rules": ["rebellion_medal:6"]},
+                    {"name": "Ice Comet",
+                     "access_rules": ["rebellion_medal:6"]},
+                    {"name": "Thunder Comet",
+                     "access_rules": ["rebellion_medal:6"]},
+                    {"name": "Divine Hand",
+                     "access_rules": ["rebellion_medal:6"]},
+                    {"name": "Axl Bullets 3",
+                     "access_rules": ["rebellion_medal:6"]},
+                    {"name": "Manhunter",
+                     "access_rules": ["rebellion_medal:6"]},
+                    {"name": "Shock Lance B",
+                     "access_rules": ["rebellion_medal:6"]},
+                    {"name": "Beam Miracle S",
+                     "access_rules": ["rebellion_medal:6"]},
+                    {"name": "Twin Fire",
+                     "access_rules": ["rebellion_medal:4"]},
+                    {"name": "Twin Ice",
+                     "access_rules": ["rebellion_medal:4"]},
+                    {"name": "Force Missiles",
+                     "access_rules": ["rebellion_medal:4"]},
+                    {"name": "Twin Thunder",
+                     "access_rules": ["rebellion_medal:4"]}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Central Tower",
+                        "x": 698,
+                        "y": 650
+                    }
+                ]
+            },
+            {
+                "name": "Central Tower - Air City Shopping Arcade FM Shop",
+                "access_rules": ["rebellion_medal:5"],
+                "sections": [
+                    {"name": "LE +500"},
+                    {"name": "Gain WE +10"},
+                    {"name": "Power +5"},
+                    {"name": "Armor +5"},
+                    {"name": "Shield +5"},
+                    {"name": "Speed +5"},
+                    {"name": "Protect +5"},
+                    {"name": "Full specs +3"},
+                    {"name": "Fire Resist"},
+                    {"name": "Water Resist"},
+                    {"name": "Thunder Resist"}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Central Tower",
+                        "x": 722,
+                        "y": 640
+                    }
+                ]
+            }
+        ]
+    }
+]

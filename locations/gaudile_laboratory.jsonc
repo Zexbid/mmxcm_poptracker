@@ -1,0 +1,334 @@
+[
+    {
+        "name": "Gaudile Laboratory",
+        "access_rules": ["gaudile_laboratory"],
+        "children": [
+            {
+                "name": "Gaudile Laboratory - Teleport Arrivals Area",
+                "sections": [
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Gaudile Laboratory - Teleport Arrivals Area/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gaudile Laboratory",
+                        "x": 100,
+                        "y": 320
+                    }
+                ]
+            },
+            {
+                "name": "Gaudile Laboratory - East Deck High Speed Lift Area",
+                "sections": [
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Cooler",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Cure One",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Vaccine Program",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Preon Spark",
+                        "ref": "Mechaniloids/Gaudile Laboratory - East Deck High Speed Lift Area/Preon Spark"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Gaudile Laboratory - East Deck High Speed Lift Area/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gaudile Laboratory",
+                        "x": 136,
+                        "y": 244
+                    }
+                ]
+            },
+            {
+                "name": "Gaudile Laboratory - East Deck Main Route",
+                "sections": [
+                    {
+                        "name": "Build WE",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build LE",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Energy 25",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "LE +100",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gaudile Laboratory",
+                        "x": 334,
+                        "y": 218
+                    }
+                ]
+            },
+            {
+                "name": "Gaudile Laboratory - East Deck Residential Division 101",
+                "sections": [
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 5
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gaudile Laboratory",
+                        "x": 244,
+                        "y": 282
+                    }
+                ]
+            },
+            {
+                "name": "Gaudile Laboratory - East Deck Residential Division 102",
+                "sections": [
+                    {
+                        "name": "600z",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Energy 50",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Protect +1",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Parts",
+                        "chest_unopened_img": "images/items/Pink.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Big Monkey",
+                        "ref": "Mechaniloids/Gaudile Laboratory - East Deck Residential Divison 102/Big Monkey"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gaudile Laboratory",
+                        "x": 160,
+                        "y": 282
+                    }
+                ]
+            },
+            {
+                "name": "Gaudile Laboratory - Observation Deck Area",
+                "sections": [
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Tank Energy 50",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Queen of Hearts",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Gaudile Laboratory - Observation Deck Area/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gaudile Laboratory",
+                        "x": 526,
+                        "y": 194
+                    }
+                ]
+            },
+            {
+                "name": "Gaudile Laboratory - Laboratory Approach",
+                "sections": [
+                    {
+                        "name": "500z",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Cure All",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Gaudile Laboratory - Laboratory Approach/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gaudile Laboratory",
+                        "x": 526,
+                        "y": 40
+                    }
+                ]
+            },
+            {
+                "name": "Gaudile Laboratory - Counter-Biohazard Sample Storage",
+                "sections": [
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Build Armor",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Speed",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Gain WE +5",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Gaudile Laboratory - Counter-Biohazard Sample Storage/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gaudile Laboratory",
+                        "x": 646,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Gaudile Laboratory - West Deck Main Route",
+                "sections": [
+                    {
+                        "name": "Reboot",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Cure One",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Energy 50",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Mettaur",
+                        "ref": "Mechaniloids/Gaudile Laboratory - West Deck Main Route/Mettaur"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Gaudile Laboratory - West Deck Main Route/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gaudile Laboratory",
+                        "x": 316,
+                        "y": 354
+                    }
+                ]
+            },
+            {
+                "name": "Gaudile Laboratory - Great Tree Stump Hall Approach",
+                "sections": [
+                    {
+                        "name": "Gain Hyper",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Energy 100",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gaudile Laboratory",
+                        "x": 148,
+                        "y": 378
+                    }
+                ]
+            },
+            {
+                "name": "Gaudile Laboratory - Great Tree Stump Hall",
+                "sections": [
+                    {
+                        "name": "Dr Psyche",
+                        "hosted_item": "dr_psyche"
+                    },
+                    {
+                        "name": "Dr Psyche Item",
+                        "chest_unopened_img": "images/items/Rebellion.png",
+                        "chest_opened_img": "images/items/RebellionGray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Dober Man",
+                        "ref": "Mechaniloids/Gaudile Laboratory - Great Tree Stump Hall/Dober Man"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Gaudile Laboratory - Great Tree Stump Hall/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gaudile Laboratory",
+                        "x": 62,
+                        "y": 378
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,235 @@
+[
+    {
+        "name": "Far East HQ",
+        "access_rules": ["far_east_hq"],
+        "children": [
+             {
+                "name": "Far East HQ - Tactics Simulation Center",
+                "sections": [
+                    {
+                        "name": "Wild Jango Item",
+                        "chest_unopened_img": "images/items/Rebellion.png",
+                        "chest_opened_img": "images/items/RebellionGray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Far East HQ",
+                        "x": 256,
+                        "y": 548
+                    }
+                ]
+            },
+            {
+                "name": "Far East HQ - Teleport Terminal",
+                "sections": [
+                    {
+                        "name": "Build Hyper",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Tank Parts",
+                        "chest_unopened_img": "images/items/Pink.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Far East HQ",
+                        "x": 256,
+                        "y": 486
+                    }
+                ]
+            },
+            {
+                "name": "Far East HQ - Training Barracks",
+                "sections": [
+                    {
+                        "name": "Silver Horn Item",
+                        "chest_unopened_img": "images/items/Rebellion.png",
+                        "chest_opened_img": "images/items/RebellionGray.png"
+                    },
+                    {
+                        "name": "Mad Nautilus Item",
+                        "chest_unopened_img": "images/items/Rebellion.png",
+                        "chest_opened_img": "images/items/RebellionGray.png"
+                    },
+                    {
+                        "name": "Mach Jentra Item",
+                        "chest_unopened_img": "images/items/Rebellion.png",
+                        "chest_opened_img": "images/items/RebellionGray.png"
+                    },
+                    {
+                        "name": "Incentas Item",
+                        "chest_unopened_img": "images/items/Rebellion.png",
+                        "chest_opened_img": "images/items/RebellionGray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Far East HQ",
+                        "x": 560,
+                        "y": 464
+                    }
+                ]
+            },
+            {
+                "name": "Far East HQ - Main Control Room",
+                "sections": [
+                    {
+                        "name": "Depth Dragoon",
+                        "hosted_item": "depth_dragoon"
+                    },
+                    {
+                        "name": "Depth Dragoon Item",
+                        "chest_unopened_img": "images/items/Rebellion.png",
+                        "chest_opened_img": "images/items/RebellionGray.png",
+                        "item_count": 2
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Far East HQ",
+                        "x": 256,
+                        "y": 426
+                    }
+                ]
+            },
+            {
+                "name": "Far East HQ - Final Gate",
+                "sections": [
+                    {
+                        "name": "10000z",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "5000 FME",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Cure All",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Backup",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Gain Hyper",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Tank Energy 100",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Far East HQ",
+                        "x": 256,
+                        "y": 366
+                    }
+                ]
+            },
+            {
+                "name": "Far East HQ - Command Room",
+                "access_rules": ["rebellion_medal:8"],
+                "sections": [
+                    {
+                        "name": "Redips",
+                        "hosted_item": "redips"
+                    },
+                    {
+                        "name": "Redips Item",
+                        "chest_unopened_img": "images/items/Rebellion.png",
+                        "chest_opened_img": "images/items/RebellionGray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Far East HQ",
+                        "x": 370,
+                        "y": 276
+                    }
+                ]
+            },
+            {
+                "name": "Orbital Elevator: Babel - Super Strato-Terminal",
+                "access_rules": ["rebellion_medal:8"],
+                "sections": [
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Far East HQ",
+                        "x": 348,
+                        "y": 114
+                    }
+                ]
+            },
+            {
+                "name": "Orbital Elevator: Babel - Blue Earth Tunnel",
+                "access_rules": ["rebellion_medal:8"],
+                "sections": [
+                    {
+                        "name": "Gain Hyper",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Energy Infinite",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Far East HQ",
+                        "x": 370,
+                        "y": 44
+                    }
+                ]
+            },
+            {
+                "name": "Final Boss",
+                "access_rules": ["rebellion_medal:8"],
+                "sections": [
+                    {
+                        "name": "Great Redips",
+                        "hosted_item": "great_redips"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Far East HQ",
+                        "x": 410,
+                        "y": 20
+                    }
+                ]
+            }
+        ]
+    }
+]

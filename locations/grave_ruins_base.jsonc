@@ -1,0 +1,311 @@
+[
+    {
+        "name": "Grave Ruins Base",
+        "access_rules": ["grave_ruins_base"],
+        "children": [
+            {
+                "name": "Grave Ruins Base - Level E Security Zone",
+                "sections": [
+                    {
+                        "name": "5000z",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Grave Ruins Base - Level E Security Zone/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Grave Ruins Base",
+                        "x": 110,
+                        "y": 702
+                    }
+                ]
+            },
+            {
+                "name": "Grave Ruins Base - Level D Security Zone",
+                "sections": [
+                    {
+                        "name": "Beam Miracle S",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Bladey",
+                        "ref": "Mechaniloids/Grave Ruins Base - Level D Security Zone/Bladey"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Grave Ruins Base - Level D Security Zone/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Grave Ruins Base",
+                        "x": 182,
+                        "y": 640
+                    }
+                ]
+            },
+            {
+                "name": "Grave Ruins Base - Level C Security Zone",
+                "sections": [
+                    {
+                        "name": "Unlock Limiter",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "3000 FME",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Gain Hyper",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Grave Ruins Base - Level C Security Zone/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Grave Ruins Base",
+                        "x": 292,
+                        "y": 574
+                    }
+                ]
+            },
+            {
+                "name": "Grave Ruins Base - Level C Security Zone",
+                "sections": [
+                    {
+                        "name": "Cure All",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Backup",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Grave Ruins Base - Level B Security Zone/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Grave Ruins Base",
+                        "x": 368,
+                        "y": 518
+                    }
+                ]
+            },
+            {
+                "name": "Grave Ruins Base - Battle Field",
+                "sections": [
+                    {
+                        "name": "Build Hyper",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build LE",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build WE",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Power",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Speed",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Shield",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Armor",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Grave Ruins Base",
+                        "x": 290,
+                        "y": 484
+                    }
+                ]
+            },
+            {
+                "name": "Grave Ruins Base - Revolver Shaft Area",
+                "sections": [
+                    {
+                        "name": "Tank Energy 25",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Energy 50",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Grave Ruins Base - Revolver Shaft Area/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Grave Ruins Base",
+                        "x": 234,
+                        "y": 274
+                    }
+                ]
+            },
+            {
+                "name": "Grave Ruins Base - Revolver Rooms",
+                "sections": [
+                    {
+                        "name": "Z Saber +++ (Room 4)",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Vitality Missiles (Room 6)",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Parts (Room 7)",
+                        "chest_unopened_img": "images/items/Pink.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Grave Ruins Base",
+                        "x": 194,
+                        "y": 336
+                    }
+                ]
+            },
+            {
+                "name": "Grave Ruins Base - Revolver Shaft Area",
+                "sections": [
+                    {
+                        "name": "Tank Energy 50",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 2
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Grave Ruins Base",
+                        "x": 336,
+                        "y": 350
+                    }
+                ]
+            },
+            {
+                "name": "Grave Ruins Base - Level S Top Security Zone",
+                "sections": [
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 8
+                    },
+                    {
+                        "name": "Super Absorber",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Grave Ruins Base - Level S Top Security Zone/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Grave Ruins Base",
+                        "x": 332,
+                        "y": 150
+                    }
+                ]
+            },
+            {
+                "name": "Grave Ruins Base - Final Gate",
+                "sections": [
+                    {
+                        "name": "Gain Hyper",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Energy 100",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 2
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Grave Ruins Base",
+                        "x": 350,
+                        "y": 30
+                    }
+                ]
+            },
+            {
+                "name": "Grave Ruins Base - Hall of Glory",
+                "sections": [
+                    {
+                        "name": "Epsilon",
+                        "hosted_item": "epsilon"
+                    },
+                    {
+                        "name": "Epsilon Item",
+                        "chest_unopened_img": "images/items/Rebellion.png",
+                        "chest_opened_img": "images/items/RebellionGray.png",
+                        "item_count": 2
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Grave Ruins Base",
+                        "x": 284,
+                        "y": 76
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,56 +1,387 @@
 [
   //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
   {
-    "name": "Toggle",
+    "name": "X",
     "type": "toggle",
-    "img": "images/items/toggle.png",
-    "codes": "toggle"
+    "img": "images/items/X.png",
+    "codes": "x"
   },
   {
-    "name": "Progressive",
-    "type": "progressive",
-    "allow_disabled": true,
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/progressive.png",
-        "codes": "progressive",
-        "inherit_codes": false
-      },
-      {
-        "img": "images/items/progressive_2.png",
-        "codes": "progressive_2",
-        "inherit_codes": false
-      }
-    ]
+    "name": "Zero",
+    "type": "toggle",
+    "img": "images/items/Zero.png",
+    "codes": "zero"
   },
   {
-    "name": "Consumable",
+    "name": "Axl",
+    "type": "toggle",
+    "img": "images/items/Axl.png",
+    "codes": "axl"
+  },
+  {
+    "name": "Spider",
+    "type": "toggle",
+    "img": "images/items/Spider.png",
+    "codes": "spider"
+  },
+  {
+    "name": "Massimo",
+    "type": "toggle",
+    "img": "images/items/Massimo.png",
+    "codes": "massimo"
+  },
+  {
+    "name": "Marino",
+    "type": "toggle",
+    "img": "images/items/Marino.png",
+    "codes": "marino"
+  },
+  {
+    "name": "Cinnamon",
+    "type": "toggle",
+    "img": "images/items/Cinnamon.png",
+    "codes": "cinnamon"
+  },
+  {
+    "name": "Hippopressor",
+    "type": "toggle",
+    "img": "images/items/Hippopressor.png",
+    "codes": "hippopressor"
+  },
+  {
+    "name": "Spider",
+    "type": "toggle",
+    "img": "images/items/Spider_Boss.png",
+    "codes": "spider_boss"
+  },
+  {
+    "name": "Wild Jango",
+    "type": "toggle",
+    "img": "images/items/WildJango.png",
+    "codes": "wild_jango"
+  },
+  {
+    "name": "Silver Horn",
+    "type": "toggle",
+    "img": "images/items/SilverHorn.png",
+    "codes": "silver_horn"
+  },
+  {
+    "name": "Dr. Psyche",
+    "type": "toggle",
+    "img": "images/items/DrPsyche.png",
+    "codes": "dr_psyche"
+  },
+  {
+    "name": "Mach Jentra",
+    "type": "toggle",
+    "img": "images/items/MachJentra.png",
+    "codes": "mach_jentra"
+  },
+  {
+    "name": "Shadow",
+    "type": "toggle",
+    "img": "images/items/Shadow.png",
+    "codes": "shadow"
+  },
+  {
+    "name": "Incentas",
+    "type": "toggle",
+    "img": "images/items/Incentas.png",
+    "codes": "incentas"
+  },
+  {
+    "name": "Botos",
+    "type": "toggle",
+    "img": "images/items/Botos.png",
+    "codes": "botos"
+  },
+  {
+    "name": "Ferham",
+    "type": "toggle",
+    "img": "images/items/Ferham.png",
+    "codes": "ferham"
+  },
+  {
+    "name": "Scarface",
+    "type": "toggle",
+    "img": "images/items/Scarface.png",
+    "codes": "scarface"
+  },
+  {
+    "name": "Epsilon",
+    "type": "toggle",
+    "img": "images/items/Epsilon.png",
+    "codes": "epsilon"
+  },
+  {
+    "name": "Depth Dragoon",
+    "type": "toggle",
+    "img": "images/items/DepthDragoon.png",
+    "codes": "depth_dragoon"
+  },
+  {
+    "name": "Redips",
+    "type": "toggle",
+    "img": "images/items/Redips.png",
+    "codes": "redips"
+  },
+  {
+    "name": "Great Redips",
+    "type": "toggle",
+    "img": "images/items/GreatRedips.png",
+    "codes": "great_redips"
+  },
+  {
+    "name": "Rafflesian",
+    "type": "toggle",
+    "img": "images/items/Rafflesian.png",
+    "codes": "rafflesian"
+  },
+  {
+    "name": "Duckbill Mole",
+    "type": "toggle",
+    "img": "images/items/DuckbillMole.png",
+    "codes": "duckbill_mole"
+  },
+  {
+    "name": "Ninetails",
+    "type": "toggle",
+    "img": "images/items/Ninetails.png",
+    "codes": "ninetails"
+  },
+  {
+    "name": "Lagrano Ruins",
+    "type": "toggle",
+    "img": "images/items/LagranoRuins.png",
+    "codes": "lagrano_ruins"
+  },
+  {
+    "name": "Central Tower",
+    "type": "toggle",
+    "img": "images/items/CentralTower.png",
+    "codes": "central_tower"
+  },
+  {
+    "name": "Tianna Camp",
+    "type": "toggle",
+    "img": "images/items/TiannaCamp.png",
+    "codes": "tianna_camp"
+  },
+  {
+    "name": "Gaudile Laboratory",
+    "type": "toggle",
+    "img": "images/items/GaudileLab.png",
+    "codes": "gaudile_laboratory"
+  },
+  {
+    "name": "Ulfat Factory",
+    "type": "toggle",
+    "img": "images/items/UlfatFactory.png",
+    "codes": "ulfat_factory"
+  },
+  {
+    "name": "Gimialla Mine",
+    "type": "toggle",
+    "img": "images/items/GimiallaMine.png",
+    "codes": "gimialla_mine"
+  },
+  {
+    "name": "Vanallia Desert",
+    "type": "toggle",
+    "img": "images/items/VanalliaDesert.png",
+    "codes": "vanallia_desert"
+  },
+  {
+    "name": "Melda Ore Plant",
+    "type": "toggle",
+    "img": "images/items/MeldaOrePlant.png",
+    "codes": "melda_ore_plant"
+  },
+  {
+    "name": "Grave Ruins Base",
+    "type": "toggle",
+    "img": "images/items/GraveRuinsBase.png",
+    "codes": "grave_ruins_base"
+  },
+  {
+    "name": "Far East HQ",
+    "type": "toggle",
+    "img": "images/items/FarEastHQ.png",
+    "codes": "far_east_hq"
+  },
+  {
+    "name": "Treasure Radar",
+    "type": "toggle",
+    "img": "images/items/TreasureRadar.png",
+    "codes": "treasure_radar"
+  },
+  {
+    "name": "Rebellion Medal",
     "type": "consumable",
-    "img": "images/items/consumable.png",
+    "img": "images/items/Rebellion.png",
     "max_quantity": 8,
     "increment": 1,
     "decrement": 1,
-    "initial_quantity": 1,
-    "overlay_background": "#000000",
-    "overlay_font_size": 8,
-    "codes": "consumable"
+    "initial_quantity": 0,
+    "overlay_font_size": 12,
+    "overlay_background": "#A0000000",
+    "codes": "rebellion_medal"
   },
   {
-    "name": "Progressive Toggle",
-    "type": "progressive_toggle",
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/progressive.png",
-        "codes": "progressive_toggle",
-        "inherit_codes": false
-      },
-      {
-        "img": "images/items/progressive_2.png",
-        "codes": "progressive_toggle_2",
-        "inherit_codes": false
-      }
-    ]
+    "name": "Lagrano Key",
+    "type": "toggle",
+    "img": "images/items/LagranoKey.png",
+    "codes": "lagrano_key"
+  },
+  {
+    "name": "Central Key",
+    "type": "toggle",
+    "img": "images/items/CentralKey.png",
+    "codes": "central_key"
+  },
+  {
+    "name": "Tianna Key",
+    "type": "toggle",
+    "img": "images/items/TiannaKey.png",
+    "codes": "tianna_key"
+  },
+  {
+    "name": "Gimialla Key",
+    "type": "toggle",
+    "img": "images/items/GimiallaKey.png",
+    "codes": "gimialla_key"
+  },
+  {
+    "name": "Melda Key",
+    "type": "toggle",
+    "img": "images/items/MeldaKey.png",
+    "codes": "melda_key"
+  },
+  {
+    "name": "White Pickaxe",
+    "type": "toggle",
+    "img": "images/items/WhitePickaxe.png",
+    "codes": "white_pickaxe"
+  },
+  {
+    "name": "Green Pickaxe",
+    "type": "toggle",
+    "img": "images/items/GreenPickaxe.png",
+    "codes": "green_pickaxe"
+  },
+  {
+    "name": "Yellow Pickaxe",
+    "type": "toggle",
+    "img": "images/items/YellowPickaxe.png",
+    "codes": "yellow_pickaxe"
+  },
+  {
+    "name": "Blue Pickaxe",
+    "type": "toggle",
+    "img": "images/items/BluePickaxe.png",
+    "codes": "blue_pickaxe"
+  },
+  {
+    "name": "Red Pickaxe",
+    "type": "toggle",
+    "img": "images/items/RedPickaxe.png",
+    "codes": "red_pickaxe"
+  },
+  {
+    "name": "Mini Batteries",
+    "type": "toggle",
+    "img": "images/items/MiniBattery.png",
+    "codes": "mini_batteries"
+  },
+  {
+    "name": "Mini Motor",
+    "type": "toggle",
+    "img": "images/items/MiniMotor.png",
+    "codes": "mini_motor"
+  },
+  {
+    "name": "Heavy Motor",
+    "type": "toggle",
+    "img": "images/items/HeavyMotor.png",
+    "codes": "heavy_motor"
+  },
+  {
+    "name": "Bone Key",
+    "type": "toggle",
+    "img": "images/items/BoneKey.png",
+    "codes": "bone_key"
+  },
+  {
+    "name": "Electric Components",
+    "type": "toggle",
+    "img": "images/items/ElectricComponents.png",
+    "codes": "electric_components"
+  },
+  {
+    "name": "Ball & Chain Hammer",
+    "type": "toggle",
+    "img": "images/items/BallChainHammer.png",
+    "codes": "ball_&_chain_hammer"
+  },
+  {
+    "name": "Cyber Liquid",
+    "type": "toggle",
+    "img": "images/items/CyberLiquid.png",
+    "codes": "cyber_liquid"
+  },
+  {
+    "name": "Security Card",
+    "type": "toggle",
+    "img": "images/items/SecurityCard.png",
+    "codes": "security_card"
+  },
+  {
+    "name": "Prison ID",
+    "type": "toggle",
+    "img": "images/items/PrisonID.png",
+    "codes": "prison_id"
+  },
+  {
+    "name": "Aile's ID",
+    "type": "toggle",
+    "img": "images/items/AileID.png",
+    "codes": "aile's_id"
+  },
+  {
+    "name": "Booster Parts",
+    "type": "toggle",
+    "img": "images/items/BoosterParts.png",
+    "codes": "booster_parts"
+  },
+  {
+    "name": "Trade Sheet",
+    "type": "toggle",
+    "img": "images/items/TradeSheet.png",
+    "codes": "trade_sheet"
+  },
+  {
+    "name": "Go Mode",
+    "type": "toggle",
+    "img": "images/items/GO.png",
+    "codes": "go_mode"
+  },
+  {
+    "name": "Treasure Tokens",
+    "type": "toggle",
+    "img": "images/items/TreasureRadar.png",
+    "codes": "treasure_tokens"
+  },
+  {
+    "name": "Mechaniloids",
+    "type": "toggle",
+    "img": "images/items/Mett.png",
+    "codes": "mechaniloids"
+  },
+  {
+    "name": "Shops",
+    "type": "toggle",
+    "img": "images/items/Shop.png",
+    "codes": "shops"
   }
 ]

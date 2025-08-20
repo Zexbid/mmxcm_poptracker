@@ -1,0 +1,565 @@
+[
+    {
+        "name": "Central Tower",
+        "access_rules": ["central_tower"],
+        "children": [
+            {
+                "name": "Central Tower - Air City Shopping Arcade Weapon Shop",
+                "ref": "Shops/Central Tower - Air City Shopping Arcade Weapon Shop"
+            },
+            {
+                "name": "Central Tower - Air City Shopping Arcade FM Shop",
+                "ref": "Shops/Central Tower - Air City Shopping Arcade FM Shop"
+            },
+            {
+                "name": "Central Tower - Air City South Square",
+                "sections": [
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 3
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Central Tower",
+                        "x": 510,
+                        "y": 642
+                    }
+                ]
+            },
+            {
+                "name": "Central Tower - Access Tunnel E-1 East",
+                "sections": [
+                    {
+                        "name": "Gain Hyper",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Energy 100",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Central Tower",
+                        "x": 674,
+                        "y": 574
+                    }
+                ]
+            },
+            {
+                "name": "Central Tower - Access Tunnel E-1 North",
+                "sections": [
+                    {
+                        "name": "100z",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Energy 50",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Power Charge",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Central Tower",
+                        "x": 596,
+                        "y": 542
+                    }
+                ]
+            },
+            {
+                "name": "Central Tower - Air City Gate",
+                "sections": [
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Central Tower - Air City Gate/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Central Tower",
+                        "x": 556,
+                        "y": 574
+                    }
+                ]                
+            },
+            {
+                "name": "Central Tower - Shaft 999F",
+                "sections": [
+                    {
+                        "name": "Clear Vision",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Vaccine Program",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Power",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Central Tower - Shaft 999F/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Central Tower",
+                        "x": 556,
+                        "y": 664
+                    }
+                ]
+            },
+            {
+                "name": "Central Tower - Tower Base Access Tunnel",
+                "sections": [
+                    {
+                        "name": "Gain Hyper",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Mega Fire",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "100z",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Energy Infinite",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treausre Token",
+                        "ref": "Treasure Tokens/Central Tower - Tower Base Access Tunnel/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Central Tower",
+                        "x": 398,
+                        "y": 576
+                    }
+                ]
+            },
+            {
+                "name": "Central Tower - Equipment Maintenance B",
+                "sections": [
+                    {
+                        "name": "Build Speed",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Armor",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treausre Token",
+                        "ref": "Treasure Tokens/Central Tower - Equipment Maintenance B/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Central Tower",
+                        "x": 236,
+                        "y": 576
+                    }
+                ]
+            },
+            {
+                "name": "Central Tower - Equipment Maintenance A",
+                "sections": [
+                    {
+                        "name": "100z",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Central Tower",
+                        "x": 228,
+                        "y": 500
+                    }
+                ]
+            },
+            {
+                "name": "Central Tower - Base Security Station",
+                "sections": [
+                    {
+                        "name": "200z",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Ultra Fire",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Energy 25",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Central Tower",
+                        "x": 226,
+                        "y": 426
+                    }
+                ]
+            },
+            {
+                "name": "Central Tower - Data Backup Room Hall A",
+                "sections": [
+                    {
+                        "name": "Tank Energy 25",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Eagle Eye",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treausre Token",
+                        "ref": "Treasure Tokens/Central Tower - Data Backup Room Hall A/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Central Tower",
+                        "x": 220,
+                        "y": 348
+                    }
+                ]
+            },
+            {
+                "name": "Central Tower - Data Backup Room Hall B",
+                "sections": [
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Central Tower - Data Backup Room Hall B/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Central Tower",
+                        "x": 156,
+                        "y": 398
+                    }
+                ]
+            },
+            {
+                "name": "Central Tower - Data Backup Room",
+                "sections": [
+                    {
+                        "name": "100z",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Central Tower",
+                        "x": 86,
+                        "y": 448
+                    }
+                ]
+            },
+            {
+                "name": "Central Tower - Command Center Staff Room",
+                "sections": [
+                    {
+                        "name": "Tank Parts",
+                        "chest_unopened_img": "images/items/Pink.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Central Tower",
+                        "x": 220,
+                        "y": 284
+                    }
+                ]
+            },
+            {
+                "name": "Central Tower - Base Entrance",
+                "sections": [
+                    {
+                        "name": "Tank Energy 25",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Central Tower",
+                        "x": 216,
+                        "y": 204
+                    }
+                ]
+            },
+            {
+                "name": "Central Tower - Base Gateway",
+                "sections": [
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Central Tower - Base Gateway/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Central Tower",
+                        "x": 286,
+                        "y": 158
+                    }
+                ]
+            },
+            {
+                "name": "Central Tower - Large Heliport Access Tunnel",
+                "sections": [
+                    {
+                        "name": "Backup",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Energy 100",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Central Tower",
+                        "x": 212,
+                        "y": 120
+                    }
+                ]
+            },
+            {
+                "name": "Central Tower - Special Sealed Area",
+                "access_rules": ["central_key"],
+                "sections": [
+                    {
+                        "name": "Enter the Intruder",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Capital",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "The Throne",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Battle Epsilon",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Epsilon 1",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Ruins Passageway",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Epsilon 2",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "The End",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Display Device",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Grave Ruins",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Flying Mechs",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Aerial Assault",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Redips Soldier",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Dragoon",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Transform Ability",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "The Chair",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Transforming Mech",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Coliseum",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Battle Redips",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Judgment",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Redips 1",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Space",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Epsilon",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Redips 2",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Redips 3",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tails",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Parts",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Great Redips",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Scores Settled",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Ninetails",
+                        "hosted_item": "ninetails"
+                    },
+                    {
+                        "name": "Massimos Weapons",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "access_rules": ["ninetails"]
+                    },
+                    {
+                        "name": "Zeros Weapons",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "access_rules": ["ninetails"]
+                    },
+                    {
+                        "name": "Xs Weapons",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "access_rules": ["ninetails"]
+                    },
+                    {
+                        "name": "Cinnamons Weapons",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "access_rules": ["ninetails"]
+                    },
+                    {
+                        "name": "Tails Front",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "access_rules": ["ninetails"]
+                    },
+                    {
+                        "name": "Tails Back",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "access_rules": ["ninetails"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Central Tower",
+                        "x": 556,
+                        "y": 734
+                    }
+                ]
+            }
+        ]
+    }
+]

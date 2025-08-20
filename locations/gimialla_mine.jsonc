@@ -1,0 +1,448 @@
+[
+    {
+        "name": "Gimialla Mine",
+        "access_rules": ["gimialla_mine"],
+        "children": [
+            {
+                "name": "Gimialla Mine - Level 1 Shaft Entrance",
+                "sections": [
+                    {
+                        "name": "Ultra Fire",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Ultra Blizzard",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Ultra Thunder",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Gimialla Mine - Level 1 Shaft Entrance/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gimialla Mine",
+                        "x": 300,
+                        "y": 70
+                    }
+                ]
+            },
+            {
+                "name": "Gimialla Mine - Level 2 Main Tunnel",
+                "sections": [
+                    {
+                        "name": "1200z",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Anti-Lock",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "DOA Protection",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Gimialla Mine - Level 2 Main Tunnel/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gimialla Mine",
+                        "x": 390,
+                        "y": 208
+                    }
+                ]
+            },
+            {
+                "name": "Gimialla Mine - L2 Southwest Division",
+                "sections": [
+                    {
+                        "name": "Mini Motor",
+                        "chest_unopened_img": "images/items/Pink.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "access_rules": ["booster_parts"]
+                    },
+                    {
+                        "name": "Booster Parts",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Gimialla Mine - L2 Southwest Division/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gimialla Mine",
+                        "x": 86,
+                        "y": 244
+                    }
+                ]
+            },
+            {
+                "name": "Gimialla Mine - L2 Southeast Division",
+                "sections": [
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "access_rules": ["booster_parts"]
+                    },
+                    {
+                        "name": "Ace of Spades",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Gimialla Mine - L2 Southeast Division/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gimialla Mine",
+                        "x": 590,
+                        "y": 244
+                    }
+                ]
+            },
+            {
+                "name": "Gimialla Mine - L2 Northeast Division",
+                "sections": [
+                    {
+                        "name": "800 FME",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build LE",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "access_rules": ["mini_batteries"]
+                    },
+                    {
+                        "name": "Tank Parts",
+                        "chest_unopened_img": "images/items/Pink.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "access_rules": ["booster_parts"]
+                    },
+                    {
+                        "name": "Mega Mantor",
+                        "ref": "Mechaniloids/Gimialla Mine - L2 Northeast Division/Mega Mantor"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gimialla Mine",
+                        "x": 680,
+                        "y": 178
+                    }
+                ]
+            },
+            {
+                "name": "Gimialla Mine - L2 Northwest Division",
+                "sections": [
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 3
+                    },
+                    {
+                        "name": "Bat Bone",
+                        "ref": "Mechaniloids/Gimialla Mine - L2 Northwest Division/Bat Bone"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gimialla Mine",
+                        "x": 184,
+                        "y": 178
+                    }
+                ]
+            },
+            {
+                "name": "Gimialla Mine - Level 3 Main Tunnel",
+                "sections": [
+                    {
+                        "name": "Tank Energy 100",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Shadow",
+                        "hosted_item": "shadow"
+                    },
+                    {
+                        "name": "Shadow Item",
+                        "chest_unopened_img": "images/items/Rebellion.png",
+                        "chest_opened_img": "images/items/RebellionGray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 2,
+                        "access_rules": ["shadow"]
+                    },
+                    {
+                        "name": "Foreman Gift 1",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png",
+                        "access_rules": ["shadow"]
+                    },
+                    {
+                        "name": "Foreman Gift 2",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png",
+                        "access_rules": ["shadow, trade_sheet"]
+                    },
+                    {
+                        "name": "Blue Degraver Trade",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png",
+                        "access_rules": ["shadow, blue_pickaxe"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gimialla Mine",
+                        "x": 390,
+                        "y": 346
+                    }
+                ]
+            },
+            {
+                "name": "Gimialla Mine - L3 Northwest Division",
+                "access_rules": ["shadow"],
+                "sections": [
+                    {
+                        "name": "1300z",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Ace of Hearts",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Red Degraver Trade",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png",
+                        "access_rules": ["red_pickaxe"],
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Yellow Degraver Trade",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png",
+                        "access_rules": ["yellow_pickaxe"]
+                    },
+                    {
+                        "name": "Degraver",
+                        "ref": "Mechaniloids/Gimialla Mine - L3 Northwest Division/Degraver"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Gimialla Mine - L3 Northwest Division/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gimialla Mine",
+                        "x": 190,
+                        "y": 312
+                    }
+                ]
+            },
+            {
+                "name": "Gimialla Mine - L3 Northeast Division",
+                "access_rules": ["shadow"],
+                "sections": [
+                    {
+                        "name": "Force Missiles",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Green Degraver Trade",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png",
+                        "access_rules": ["green_pickaxe"],
+                        "item_count": 2
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gimialla Mine",
+                        "x": 678,
+                        "y": 312
+                    }
+                ]
+            },
+            {
+                "name": "Gimialla Mine - L3 Southwest Division",
+                "access_rules": ["shadow, gimialla_key"],
+                "sections": [
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Parts",
+                        "chest_unopened_img": "images/items/Pink.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "access_rules": ["heavy_motor"]
+                    },
+                    {
+                        "name": "Gold Blader",
+                        "ref": "Mechaniloids/Gimialla Mine - L3 Southwest Division/Gold Blader"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Gimialla Mine - L3 Southwest Division/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gimialla Mine",
+                        "x": 94,
+                        "y": 378
+                    }
+                ]
+            },
+            {
+                "name": "Gimialla Mine - Level 4 Main Tunnel",
+                "access_rules": ["electric_components"],
+                "sections": [
+                    {
+                        "name": "Build WE",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Power",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Armor",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Shield",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Build Speed",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Gain Hyper",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Energy 100",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gimialla Mine",
+                        "x": 392,
+                        "y": 472
+                    }
+                ]
+            },
+            {
+                "name": "Gimialla Mine - Level 4 Durability Lab",
+                "access_rules": ["electric_components"],
+                "sections": [
+                    {
+                        "name": "Fire Guard",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Water Guard",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Thunder Guard",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gimialla Mine",
+                        "x": 152,
+                        "y": 476
+                    }
+                ]
+            },
+            {
+                "name": "Gimialla Mine - Bottom Floor Central Mining Division",
+                "access_rules": ["electric_components"],
+                "sections": [
+                    {
+                        "name": "Incentas",
+                        "hosted_item": "incentas"
+                    },
+                    {
+                        "name": "Incentas Item",
+                        "chest_unopened_img": "images/items/Rebellion.png",
+                        "chest_opened_img": "images/items/RebellionGray.png",
+                        "item_count": 2
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gimialla Mine",
+                        "x": 260,
+                        "y": 576
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,318 @@
+[
+    {
+        "name": "Ulfat Factory",
+        "access_rules": ["ulfat_factory"],
+        "children": [
+            {
+                "name": "Ulfat Factory - Smelting Furnace 1",
+                "sections": [
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "1000z",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "300 FME",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build LE",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Ultra Blizzard",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Fire Guard",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Rush Loader",
+                        "ref": "Mechaniloids/Ulfat Factory - Smelting Furnace 1/Rush Loader"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Ulfat Factory - Smelting Furnace 1/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ulfat Factory",
+                        "x": 170,
+                        "y": 664
+                    }
+                ]
+            },
+            {
+                "name": "Ulfat Factory - Smelting Furnace 2",
+                "sections": [
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "800z",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build WE",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "King of Hearts",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Parts",
+                        "chest_unopened_img": "images/items/Pink.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Einhammer",
+                        "ref": "Mechaniloids/Ulfat Factory - Smelting Furnace 2/Einhammer"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Ulfat Factory - Smelting Furnace 2/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ulfat Factory",
+                        "x": 314,
+                        "y": 550
+                    }
+                ]
+            },
+            {
+                "name": "Ulfat Factory - Smelting Furnace 3",
+                "sections": [
+                    {
+                        "name": "Build Speed",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Boost Speed",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Energy 50",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Aero Buster",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Mini Battery",
+                        "chest_unopened_img": "images/items/Pink.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Ulfat Factory - Smelting Furnace 3/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ulfat Factory",
+                        "x": 450,
+                        "y": 444
+                    }
+                ]
+            },
+            {
+                "name": "Ulfat Factory - Parts Intake Line",
+                "sections": [
+                    {
+                        "name": "1000z",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Gain Hyper",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Energy 25",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "WE +5",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Ulfat Factory - Parts Intake Line/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ulfat Factory",
+                        "x": 398,
+                        "y": 370
+                    }
+                ]
+            },
+            {
+                "name": "Ulfat Factory - Parts Delivery Line",
+                "sections": [
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 8
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Ulfat Factory - Parts Delivery Line/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ulfat Factory",
+                        "x": 474,
+                        "y": 310
+                    }
+                ]
+            },
+            {
+                "name": "Ulfat Factory - Freight Lift",
+                "sections": [
+                    {
+                        "name": "Killer Mantis",
+                        "ref": "Mechaniloids/Ulfat Factory - Freight Lift/Killer Mantis"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Ulfat Factory - Freight Lift/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ulfat Factory",
+                        "x": 598,
+                        "y": 256
+                    }
+                ]
+            },
+            {
+                "name": "Ulfat Factory - Computer Room",
+                "sections": [
+                    {
+                        "name": "Build Shield",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Armor",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Hunter Missile",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ulfat Factory",
+                        "x": 666,
+                        "y": 130
+                    }
+                ]
+            },
+            {
+                "name": "Ulfat Factory - Assembly Line Monitor Room",
+                "sections": [
+                    {
+                        "name": "Backup",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Power",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ulfat Factory",
+                        "x": 384,
+                        "y": 52
+                    }
+                ]
+            },
+            {
+                "name": "Ulfat Factory - Computer Room Corridor",
+                "sections": [
+                    {
+                        "name": "Gain Hyper",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Energy 100",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 2
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ulfat Factory",
+                        "x": 736,
+                        "y": 80
+                    }
+                ]
+            },
+            {
+                "name": "Ulfat Factory - Main Computer Duboar",
+                "sections": [
+                    {
+                        "name": "Mach Jentra",
+                        "hosted_item": "mach_jentra"
+                    },
+                    {
+                        "name": "Mach Jentra Item",
+                        "chest_unopened_img": "images/items/Rebellion.png",
+                        "chest_opened_img": "images/items/RebellionGray.png",
+                        "item_count": 2
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ulfat Factory",
+                        "x": 802,
+                        "y": 30
+                    }
+                ]
+            }
+        ]
+    }
+]

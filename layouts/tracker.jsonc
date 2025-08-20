@@ -15,34 +15,47 @@
           "content": [
             {
               "type": "group",
+              "header": "Characters",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "characters"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Stages",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "stages"
+              }
+            },
+            {
+              "type": "group",
               "header": "Items",
               "dock": "top",
               "content": {
                 "type": "layout",
-                "key": "shared_item_grid"
-              }
-            }
-          ]
-        },
-        {
-          "type": "tabbed",
-          "tabs": [
-            {
-              "title": "Map 1",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "map1"
-                ]
+                "key": "items"
               }
             },
             {
-              "title": "Map 2",
+              "type": "group",
+              "header": "Bosses",
+              "dock": "top",
               "content": {
-                "type": "map",
-                "maps": [
-                  "map2"
-                ]
+                "type": "layout",
+                "key": "bosses"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Options",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "options"
               }
             }
           ]
@@ -59,18 +72,52 @@
       "content": [
         {
           "type": "dock",
-          "dock": "bottom",
+          "dock": "left",
+          "v_alignment": "stretch",
           "content": [
             {
               "type": "group",
-              "header": "Items",
-              "dock": "left",
-              "margin": "0,0,3,0",
+              "header": "Characters",
+              "dock": "top",
               "content": {
                 "type": "layout",
-                "h_alignment": "center",
-                "v_alignment": "center",
-                "key": "shared_item_grid"
+                "key": "characters"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Stages",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "stages"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Items",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "items"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Bosses",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "bosses"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Options",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "options"
               }
             }
           ]
@@ -79,21 +126,103 @@
           "type": "tabbed",
           "tabs": [
             {
-              "title": "Map 1",
+              "title": "Lagrano Ruins",
               "content": {
                 "type": "map",
-                "maps": [
-                  "map1"
+                "maps": ["Lagrano Ruins"]
+              }
+            },
+            {
+              "title": "Central Tower",
+              "content": {
+                "type": "map",
+                "maps": ["Central Tower"]
+              }
+            },
+            {
+              "title": "Tianna Camp",
+              "content": {
+                "type": "map",
+                "maps": ["Tianna Camp"]
+              }
+            },
+            {
+              "title": "Gaudile Laboratory",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "Laboratory",
+                    "content": {
+                    "type": "map",
+                    "maps": ["Gaudile Laboratory"]
+                    } 
+                  },
+                  {
+                    "title": "Eternal Forest",
+                    "content": {
+                    "type": "map",
+                    "maps": ["Eternal Forest"]
+                    } 
+                  }
                 ]
               }
             },
             {
-              "title": "Map 2",
+              "title": "Ulfat Factory",
               "content": {
                 "type": "map",
-                "maps": [
-                  "map2"
+                "maps": ["Ulfat Factory"]
+              }
+            },
+            {
+              "title": "Gimialla Mine",
+              "content": {
+                "type": "map",
+                "maps": ["Gimialla Mine"]
+              }
+            },
+            {
+              "title": "Vanallia Desert",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "Quicksand",
+                    "content": {
+                    "type": "map",
+                    "maps": ["Vanallia Desert Quicksand"]
+                    } 
+                  },
+                  {
+                    "title": "Desert Base",
+                    "content": {
+                    "type": "map",
+                    "maps": ["Vanallia Desert Base"]
+                    } 
+                  }
                 ]
+              }
+            },
+            {
+              "title": "Melda Ore Plant",
+              "content": {
+                "type": "map",
+                "maps": ["Melda Ore Plant"]
+              }
+            },
+            {
+              "title": "Grave Ruins Base",
+              "content": {
+                "type": "map",
+                "maps": ["Grave Ruins Base"]
+              }
+            },
+            {
+              "title": "Far East HQ",
+              "content": {
+                "type": "map",
+                "maps": ["Far East HQ"]
               }
             }
           ]

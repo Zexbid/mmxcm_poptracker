@@ -1,0 +1,208 @@
+[
+    {
+        "name": "Mechaniloids",
+        "visibility_rules": ["mechaniloids"],
+        "chest_unopened_img": "images/items/Mett.png",
+        "chest_opened_img": "images/items/MettGray.png",
+        "children": [
+              {
+                "name": "Lagrano Ruins - East Block Stairs 4F to 5F",
+                "access_rules": ["lagrano_ruins, lagrano_key"],
+                "sections": [
+                    {
+                        "name": "Deerball"
+                    }
+                ]
+            },
+            {
+                "name": "Tianna Camp - Maze Area 1",
+                "access_rules": ["tianna_camp, tianna_key"],
+                "sections": [
+                    {
+                        "name": "Radar Killer"
+                    }
+                ]
+            },
+            {
+                "name": "Tianna Camp - Aqua Coliseum",
+                "access_rules": ["tianna_camp, mini_batteries, silver_horn"],
+                "sections": [
+                    {
+                        "name": "Blowfish"
+                    }
+                ]
+            },
+            {
+                "name": "Tianna Camp - Aqua Coliseum",
+                "access_rules": ["tianna_camp, mini_batteries, silver_horn"],
+                "sections": [
+                    {
+                        "name": "Blowfish"
+                    }
+                ]
+            },
+            {
+                "name": "Gaudile Laboratory - East Deck High Speed Lift Area",
+                "access_rules": ["gaudile_laboratory"],
+                "sections": [
+                    {
+                        "name": "Preon Spark"
+                    }
+                ]
+            },
+            {
+                "name": "Gaudile Laboratory - East Deck Residential Division 102",
+                "access_rules": ["gaudile_laboratory"],
+                "sections": [
+                    {
+                        "name": "Big Monkey"
+                    }
+                ]
+            },
+            {
+                "name": "Gaudile Laboratory - West Deck Main Route",
+                "access_rules": ["gaudile_laboratory"],
+                "sections": [
+                    {
+                        "name": "Mettaur"
+                    }
+                ]
+            },
+            {
+                "name": "Gaudile Laboratory - Great Tree Stump Hall",
+                "access_rules": ["gaudile_laboratory, bone_key, dr_psyche"],
+                "sections": [
+                    {
+                        "name": "Dober Man"
+                    }
+                ]
+            },
+            {
+                "name": "Ulfat Factory - Smelting Furnace 1",
+                "access_rules": ["ulfat_factory"],
+                "sections": [
+                    {
+                        "name": "Rush Loader"
+                    }
+                ]
+            },
+            {
+                "name": "Ulfat Factory - Smelting Furnace 2",
+                "access_rules": ["ulfat_factory, ball_&_chain_hammer"],
+                "sections": [
+                    {
+                        "name": "Einhammer"
+                    }
+                ]
+            },
+            {
+                "name": "Ulfat Factory - Freight Lift",
+                "access_rules": ["ulfat_factory"],
+                "sections": [
+                    {
+                        "name": "Killer Mantis"
+                    }
+                ]
+            },
+            {
+                "name": "Gimialla Mine - L2 Northeast Division",
+                "access_rules": ["gimialla_mine, mini_batteries"],
+                "sections": [
+                    {
+                        "name": "Mega Mantor"
+                    }
+                ]
+            },
+            {
+                "name": "Gimialla Mine - L2 Northwest Division",
+                "access_rules": ["gimialla_mine"],
+                "sections": [
+                    {
+                        "name": "Bat Bone"
+                    }
+                ]
+            },
+            {
+                "name": "Gimialla Mine - L3 Northwest Division",
+                "access_rules": ["gimialla_mine, shadow"],
+                "sections": [
+                    {
+                        "name": "Degraver"
+                    }
+                ]
+            },
+            {
+                "name": "Gimialla Mine - L3 Southwest Division",
+                "access_rules": ["gimialla_mine, shadow, gimialla_key, heavy_motor"],
+                "sections": [
+                    {
+                        "name": "Gold Blader"
+                    }
+                ]
+            },
+            {
+                "name": "Vanallia Desert Quicksand - A2",
+                "access_rules": ["vanallia_desert, mini_batteries"],
+                "sections": [
+                    {
+                        "name": "Megatortoise"
+                    }
+                ]
+            },
+            {
+                "name": "Vanallia Desert Base - Quicksand South Side",
+                "access_rules": ["vanallia_desert, cyber_liquid"],
+                "sections": [
+                    {
+                        "name": "Liquid Glob"
+                    }
+                ]
+            },
+            {
+                "name": "Vanallia Desert - Signal Jammer Laser Energy Control Room SW",
+                "access_rules": ["vanallia_desert"],
+                "sections": [
+                    {
+                        "name": "Pararoid"
+                    }
+                ]
+            },
+            {
+                "name": "Melda Ore Plant - Ore Plant External Tank",
+                "access_rules": ["melda_ore_plant"],
+                "sections": [
+                    {
+                        "name": "Rabbid"
+                    }
+                ]
+            },
+            {
+                "name": "Melda Ore Plant - Missile Maintenance Room",
+                "access_rules": ["melda_ore_plant, melda_key"],
+                "sections": [
+                    {
+                        "name": "Meltdown"
+                    }
+                ]
+            },
+            {
+                "name": "Melda Ore Plant - Melda Ore Plant - Area E-B04",
+                "access_rules": ["melda_ore_plant"],
+                "sections": [
+                    {
+                        "name": "Wolfoid"
+                    }
+                ]
+            },
+            {
+                "name": "Grave Ruins Base - Level D Security Zone",
+                "access_rules": ["grave_ruins_base"],
+                "sections": [
+                    {
+                        "name": "Bladey"
+                    }
+                ]
+            }
+        ]
+    }
+]

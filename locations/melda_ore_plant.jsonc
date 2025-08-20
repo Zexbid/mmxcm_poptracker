@@ -1,0 +1,385 @@
+[
+    {
+        "name": "Melda Ore Plant",
+        "access_rules": ["melda_ore_plant"],
+        "children": [
+            {
+                "name": "Melda Ore Plant - Ore Plant External Tank",
+                "sections": [
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Tank Parts",
+                        "chest_unopened_img": "images/items/Pink.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Heavy Motor",
+                        "chest_unopened_img": "images/items/Pink.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Rabbid",
+                        "ref": "Mechaniloids/Melda Ore Plant - Ore Plant External Tank/Rabbid"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Melda Ore Plant",
+                        "x": 1090,
+                        "y": 138
+                    }
+                ]
+            },
+            {
+                "name": "Melda Ore Plant - B1 Entrance Hall",
+                "sections": [
+                    {
+                        "name": "Ultra Thunder",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 3,
+                        "access_rules": ["melda_key"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Melda Ore Plant",
+                        "x": 886,
+                        "y": 138
+                    }
+                ]
+            },
+            {
+                "name": "Melda Ore Plant - Missile Maintenance Room",
+                "access_rules": ["melda_key"],
+                "sections": [
+                    {
+                        "name": "Meltdown",
+                        "ref": "Mechaniloids/Melda Ore Plant - Missile Maintenance Room/Meltdown"
+                    },
+                    {
+                        "name": "Duckbill Mole",
+                        "hosted_item": "duckbill_mole"
+                    },
+                    {
+                        "name": "Absolute Zero",
+                        "chest_unopened_img": "images/items/Pink.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 3,
+                        "access_rules": ["melda_key, duckbill_mole"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Melda Ore Plant",
+                        "x": 886,
+                        "y": 52
+                    }
+                ]
+            },
+            {
+                "name": "Melda Ore Plant - Area E-B02",
+                "sections": [
+                    {
+                        "name": "Build WE",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build LE",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Melda Ore Plant - Area E-B02/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Melda Ore Plant",
+                        "x": 820,
+                        "y": 230
+                    }
+                ]
+            },
+            {
+                "name": "Melda Ore Plant - Area E-B03",
+                "sections": [
+                    {
+                        "name": "800 FME",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Shield",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Mini Battery",
+                        "chest_unopened_img": "images/items/Pink.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Melda Ore Plant - Area E-B03/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Melda Ore Plant",
+                        "x": 820,
+                        "y": 316
+                    }
+                ]
+            },
+            {
+                "name": "Melda Ore Plant - Area E-B04",
+                "sections": [
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Energy 50",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Wolfoid",
+                        "ref": "Mechaniloid/Melda Ore Plant - Area E-B04/Wolfoid"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Melda Ore Plant",
+                        "x": 820,
+                        "y": 402
+                    }
+                ]
+            },
+            {
+                "name": "Melda Ore Plant - Missile Silo Base Lower Section",
+                "sections": [
+                    {
+                        "name": "3000z",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "1000 FME",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Gain Hyper",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Melda Ore Plant",
+                        "x": 486,
+                        "y": 480
+                    }
+                ]
+            },
+            {
+                "name": "Melda Ore Plant - B5 East-West Block Access Tunnel",
+                "sections": [
+                    {
+                        "name": "Build Speed",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Melda Ore Plant",
+                        "x": 156,
+                        "y": 480
+                    }
+                ]
+            },
+            {
+                "name": "Melda Ore Plant - Area W-B04",
+                "sections": [
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Power",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Energy 50",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Melda Ore Plant - Area W-B04/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Melda Ore Plant",
+                        "x": 146,
+                        "y": 402
+                    }
+                ]
+            },
+            {
+                "name": "Melda Ore Plant - Area W-B03",
+                "sections": [
+                    {
+                        "name": "2000z",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Armor",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Cryogenic",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Melda Ore Plant - Area W-B03/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Melda Ore Plant",
+                        "x": 146,
+                        "y": 316
+                    }
+                ]
+            },
+            {
+                "name": "Melda Ore Plant - Area W-B02",
+                "sections": [
+                    {
+                        "name": "Gain Hyper",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Energy 100",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "access_rules": ["ferham"]
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Melda Ore Plant - Area W-B02/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Melda Ore Plant",
+                        "x": 146,
+                        "y": 230
+                    }
+                ]
+            },
+            {
+                "name": "Melda Ore Plant - Silo Interior Middle Maintenance Deck",
+                "sections": [
+                    {
+                        "name": "Ferham",
+                        "hosted_item": "ferham"
+                    },
+                    {
+                        "name": "Ferham Item",
+                        "chest_unopened_img": "images/items/Rebellion.png",
+                        "chest_opened_img": "images/items/RebellionGray.png",
+                        "item_count": 2
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Melda Ore Plant",
+                        "x": 478,
+                        "y": 230
+                    }
+                ]
+            },
+            {
+                "name": "Melda Ore Plant - Missile Warhead Adjustment Room",
+                "access_rules": ["ferham"],
+                "sections": [
+                     {
+                        "name": "Gatling Buster II",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Melda Ore Plant",
+                        "x": 478,
+                        "y": 138
+                    }
+                ]
+            },
+            {
+                "name": "Melda Ore Plant - Area W-B01",
+                "access_rules": ["ferham"],
+                "sections": [
+                     {
+                        "name": "Generator",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Melda Ore Plant - Area W-B01/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Melda Ore Plant",
+                        "x": 750,
+                        "y": 138
+                    }
+                ]
+            }
+        ]
+    }
+]

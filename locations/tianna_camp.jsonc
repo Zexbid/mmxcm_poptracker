@@ -1,0 +1,410 @@
+[
+    {
+        "name": "Tianna Camp",
+        "access_rules": ["tianna_camp"],
+        "children": [
+          {
+                "name": "Tianna Camp - Security Reploid Patrol Area",
+                "sections": [
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "300z",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Decoy",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Thunder Missile",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Tianna Camp - Security Reploid Patrol Area/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tianna Camp",
+                        "x": 778,
+                        "y": 76
+                    }
+                ]
+            },
+            {
+                "name": "Tianna Camp - Prisoner Admission Division",
+                "sections": [
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Boost Armor",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Speed",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Mega Thunder",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tianna Camp",
+                        "x": 684,
+                        "y": 290
+                    }
+                ]
+            },
+            {
+                "name": "Tianna Camp - Main Gate - Depth 4 Undersea Prison",
+                "sections": [
+                    {
+                        "name": "Tank Energy 100",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tianna Camp",
+                        "x": 778,
+                        "y": 352
+                    }
+                ]
+            },
+            {
+                "name": "Tianna Camp - East Prison",
+                "sections": [
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "400z",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Soldier Reward (Prison ID)",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tianna Camp",
+                        "x": 870,
+                        "y": 314
+                    }
+                ]
+            },
+            {
+                "name": "Tianna Camp - West Prison",
+                "sections": [
+                    {
+                        "name": "Reboot",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Jack of Hearts",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Soldier Reward (Water Guard)",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Tianna Camp - West Prison/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tianna Camp",
+                        "x": 774,
+                        "y": 314
+                    }
+                ]
+            },
+            {
+                "name": "Tianna Camp - Maze Area 1",
+                "sections": [
+                    {
+                        "name": "200z",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Armor",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Shield",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Energy 50",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Parts",
+                        "chest_unopened_img": "images/items/Pink.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "access_rules": ["tianna_key"]
+                    },
+                    {
+                        "name": "Rafflesian",
+                        "hosted_item": "rafflesian",
+                        "access_rules": ["tianna_key"]
+                    },
+                    {
+                        "name": "Rafflesian Item",
+                        "chest_unopened_img": "images/items/Rebellion.png",
+                        "chest_opened_img": "images/items/RebellionGray.png",
+                        "item_count": 2,
+                        "access_rules": ["tianna_key"]
+                    },
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 2,
+                        "access_rules": ["tianna_key, rafflesian"]
+                    },
+                    {
+                        "name": "Ultimate Armor",
+                        "chest_unopened_img": "images/items/Pink.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "access_rules": ["tianna_key, rafflesian"]
+                    },
+                    {
+                        "name": "Radar Killer",
+                        "ref": "Mechaniloids/Tianna Camp - Maze Area 1/Radar Killer"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Tianna Camp - Maze Area 1/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tianna Camp",
+                        "x": 324,
+                        "y": 480
+                    }
+                ]
+            },
+            {
+                "name": "Tianna Camp - Maze Area 2",
+                "sections": [
+                    {
+                        "name": "Warm-up",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Boost Power",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Boost Shield",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Energy 50",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tomahawk",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Tianna Camp - Maze Area 2/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tianna Camp",
+                        "x": 372,
+                        "y": 444
+                    }
+                ]
+            },
+            {
+                "name": "Tianna Camp - Dark Room",
+                "sections": [
+                    {
+                        "name": "Tank Energy 50",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tianna Camp",
+                        "x": 510,
+                        "y": 502
+                    }
+                ]
+            },
+            {
+                "name": "Tianna Camp - Security Panel Area",
+                "sections": [
+                    {
+                        "name": "Build Shield (YRB)",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Speed (YRB)",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Power (YRB)",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Armor (YRB)",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build LE (YRB)",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Parts (BYR)",
+                        "chest_unopened_img": "images/items/Pink.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Figure Token (RYB)",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png",
+                        "item_count": 4
+                    },
+                    {
+                        "name": "100z (RYB)",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "200z (RYB)",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "300z (RYB)",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "400z (RYB)",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Queen of Diamonds (GBRY)",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Tianna Camp - Security Panel Area/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tianna Camp",
+                        "x": 486,
+                        "y": 554
+                    }
+                ]
+            },
+            {
+                "name": "Tianna Camp - Aqua Coliseum Entrance",
+                "sections": [
+                    {
+                        "name": "Gain Hyper",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Energy 100",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tianna Camp",
+                        "x": 242,
+                        "y": 538
+                    }
+                ]
+            },
+            {
+                "name": "Tianna Camp - Aqua Coliseum",
+                "sections": [
+                    {
+                        "name": "Silver Horn",
+                        "hosted_item": "silver_horn"
+                    },
+                    {
+                        "name": "Silver Horn Item",
+                        "chest_unopened_img": "images/items/Rebellion.png",
+                        "chest_opened_img": "images/items/RebellionGray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Blowfish",
+                        "ref": "Mechaniloids/Tianna Camp - Aqua Coliseum/Blowfish"
+                    },
+                    {
+                        "name": "Treasure Token",
+                        "ref": "Treasure Tokens/Tianna Camp - Aqua Coliseum/Treasure Token"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tianna Camp",
+                        "x": 290,
+                        "y": 502
+                    }
+                ]
+            }
+        ]
+    }
+]

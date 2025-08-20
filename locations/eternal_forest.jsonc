@@ -1,0 +1,545 @@
+[
+    {
+        "name": "Eternal Forest",
+        "access_rules": ["gaudile_laboratory"],
+        "children": [
+            {
+                "name": "Eternal Forest - RR",
+                "sections": [
+                    {
+                        "name": "RR Reward",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Eternal Forest",
+                        "x": 866,
+                        "y": 724
+                    }
+                ]
+            },
+            {
+                "name": "Eternal Forest - RLR",
+                "sections": [
+                    {
+                        "name": "RLR Reward",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png",
+                        "item_count": 2
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Eternal Forest",
+                        "x": 866,
+                        "y": 702
+                    }
+                ]
+            },
+            {
+                "name": "Eternal Forest - RLLR",
+                "sections": [
+                    {
+                        "name": "RLLR Reward",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png",
+                        "item_count": 2
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Eternal Forest",
+                        "x": 866,
+                        "y": 680
+                    }
+                ]
+            },
+            {
+                "name": "Eternal Forest - RLLL",
+                "sections": [
+                    {
+                        "name": "RLLL Reward",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Joker",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Eternal Forest",
+                        "x": 866,
+                        "y": 658
+                    }
+                ]
+            },
+            {
+                "name": "Eternal Forest - LRR",
+                "sections": [
+                    {
+                        "name": "LRR Reward",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png",
+                        "item_count": 2
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Eternal Forest",
+                        "x": 866,
+                        "y": 636
+                    }
+                ]
+            },
+            {
+                "name": "Eternal Forest - LRLR",
+                "sections": [
+                    {
+                        "name": "LRLR Reward",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png",
+                        "item_count": 2
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Eternal Forest",
+                        "x": 866,
+                        "y": 614
+                    }
+                ]
+            },
+            {
+                "name": "Eternal Forest - LRLL",
+                "sections": [
+                    {
+                        "name": "LRLL Reward",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Eternal Forest",
+                        "x": 866,
+                        "y": 594
+                    }
+                ]
+            },
+            {
+                "name": "Eternal Forest - LLRR",
+                "sections": [
+                    {
+                        "name": "LLRR Reward",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Eternal Forest",
+                        "x": 866,
+                        "y": 572
+                    }
+                ]
+            },
+            {
+                "name": "Eternal Forest - LLRLR",
+                "sections": [
+                    {
+                        "name": "LLRLR Reward",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Eternal Forest",
+                        "x": 866,
+                        "y": 546
+                    }
+                ]
+            },
+            {
+                "name": "Eternal Forest - LLRLL",
+                "sections": [
+                    {
+                        "name": "LLRLL Reward",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Build Armor",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Eternal Forest",
+                        "x": 866,
+                        "y": 522
+                    }
+                ]
+            },
+            {
+                "name": "Eternal Forest - LLLRR",
+                "sections": [
+                    {
+                        "name": "LLLRR Reward",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Build Shield",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Eternal Forest",
+                        "x": 866,
+                        "y": 496
+                    }
+                ]
+            },
+            {
+                "name": "Eternal Forest - LLLRLR",
+                "sections": [
+                    {
+                        "name": "LLLRLR Reward",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Build Power",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Eternal Forest",
+                        "x": 866,
+                        "y": 470
+                    }
+                ]
+            },
+            {
+                "name": "Eternal Forest - LLLRLL",
+                "sections": [
+                    {
+                        "name": "LLLRLL Reward",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Build Speed",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Eternal Forest",
+                        "x": 866,
+                        "y": 446
+                    }
+                ]
+            },
+            {
+                "name": "Eternal Forest - LLLLRR",
+                "sections": [
+                    {
+                        "name": "LLLLRR Reward",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Build LE",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Eternal Forest",
+                        "x": 866,
+                        "y": 422
+                    }
+                ]
+            },
+            {
+                "name": "Eternal Forest - LLLLRLR",
+                "sections": [
+                    {
+                        "name": "LLLLRLR Reward",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Build Armor",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Item Capture",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Eternal Forest",
+                        "x": 866,
+                        "y": 394
+                    }
+                ]
+            },
+            {
+                "name": "Eternal Forest - LLLLRLL",
+                "sections": [
+                    {
+                        "name": "LLLLRLL Reward",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Build Shield",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Get Zenny +",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Eternal Forest",
+                        "x": 866,
+                        "y": 362
+                    }
+                ]
+            },
+            {
+                "name": "Eternal Forest - LLLLLRR",
+                "sections": [
+                    {
+                        "name": "LLLLLRR Reward",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Build WE",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Figure Token",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Get Exp +",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Eternal Forest",
+                        "x": 866,
+                        "y": 330
+                    }
+                ]
+            },
+            {
+                "name": "Eternal Forest - LLLLLRL",
+                "sections": [
+                    {
+                        "name": "LLLLLRL Reward",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Build Shield",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Armor",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Power Charge",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Eternal Forest",
+                        "x": 866,
+                        "y": 296
+                    }
+                ]
+            },
+            {
+                "name": "Eternal Forest - LLLLLLR",
+                "sections": [
+                    {
+                        "name": "LLLLLLR Reward",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Build Power",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Build Speed",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Turbo Clock",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Eternal Forest",
+                        "x": 866,
+                        "y": 264
+                    }
+                ]
+            },
+            {
+                "name": "Eternal Forest - LLLLLLLR",
+                "sections": [
+                    {
+                        "name": "LLLLLLLR Reward",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Build WE",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Cryogenic",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Bone Key",
+                        "chest_unopened_img": "images/items/Pink.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Eternal Forest",
+                        "x": 866,
+                        "y": 230
+                    }
+                ]
+            },
+            {
+                "name": "Eternal Forest - LLLLLLLL",
+                "sections": [
+                    {
+                        "name": "LLLLLLLL Reward",
+                        "chest_unopened_img": "images/items/Gift.png",
+                        "chest_opened_img": "images/items/GiftGray.png",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Build Hyper",
+                        "chest_unopened_img": "images/items/Blue.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Stamina Missile",
+                        "chest_unopened_img": "images/items/Green.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
+                        "name": "Tank Parts",
+                        "chest_unopened_img": "images/items/Pink.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Eternal Forest",
+                        "x": 866,
+                        "y": 198
+                    }
+                ]
+            }
+        ]
+    }
+]

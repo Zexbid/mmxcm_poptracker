@@ -1,33 +1,85 @@
 {
-  // sets layouts for shadred items grids
-  // bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
-  "shared_item_grid": {
-    "type": "array",
-    "orientation": "vertical",
-    "margin": "0,0",
-    "content": [
-      {
+    "characters": {
         "type": "array",
         "orientation": "horizontal",
-        "margin": "0,0",
         "content": [
-          {
-            "type": "itemgrid",
-            "item_margin": "10, 10",
-            "h_alignment": "left",
-            "rows": [
-              [
-                "toggle",
-                "progressive"
-              ],
-              [
-                "consumable",
-                "progressive_toggle"
-              ]
-            ]
-          }
+            {
+                "type": "itemgrid",
+                "v_alignment": "center",
+                "item_size": "42",
+                "item_margin": "3,3",
+                "rows": [
+                    ["x","zero","axl" ],
+                    ["spider","massimo","marino","cinnamon" ]
+                ]
+            }
         ]
-      }
-    ]
-  }
+    },
+    "stages": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "v_alignment": "center",
+                "item_size": "42",
+                "item_margin": "3,3",
+                "rows": [
+                    ["lagrano_ruins","central_tower","tianna_camp","gaudile_laboratory"],
+                    ["ulfat_factory","gimialla_mine","vanallia_desert","melda_ore_plant"],
+                    ["grave_ruins_base","far_east_hq","go_mode"]
+                ]
+            }
+        ]
+    },
+    "items": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "v_alignment": "center",
+                "item_size": "35",
+                "item_margin": "3,3",
+                "rows": [
+                    ["treasure_radar","aile's_id","security_card","prison_id","booster_parts","rebellion_medal"],
+                    ["lagrano_key","central_key","tianna_key","gimialla_key","melda_key","trade_sheet"],
+                    ["white_pickaxe","red_pickaxe","green_pickaxe","blue_pickaxe","yellow_pickaxe","electric_components"],
+                    ["mini_batteries","mini_motor","heavy_motor","bone_key","ball_&_chain_hammer","cyber_liquid"]
+                ]
+            }
+        ]
+    },
+    "bosses": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "v_alignment": "center",
+                "item_size": "64",
+                "item_margin": "1,1",
+                "rows": [
+                    ["hippopressor","spider_boss","wild_jango","silver_horn","dr_psyche","mach_jentra"],
+                    ["shadow","incentas","botos","ferham","scarface","epsilon"],
+                    ["depth_dragoon","redips","great_redips","duckbill_mole","rafflesian","ninetails"]
+                ]
+            }
+        ]
+    },
+    "options": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "v_alignment": "center",
+                "item_size": "64",
+                "item_margin": "1,1",
+                "rows": [
+                    ["treasure_tokens","mechaniloids","shops"]
+                ]
+            }
+        ]
+    }
 }
